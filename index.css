@@ -6,7 +6,15 @@
 header{
     height: 90px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+}
+a{
+    text-decoration: none;
+
+}
+
+.myhe a{
+    color: red;
 }
 
 nav{
@@ -22,17 +30,17 @@ nav{
     width: 40%;
 }
 
-button{
+.button head{
     align-items: end;
     border-radius: 20px;
-    padding: 10px;
+    padding: 20px;
     color: red;
     border-color: gray;
     
 }
 
 .getaudio{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 300px;
     width: 50%;
     margin: auto;
@@ -56,7 +64,7 @@ button{
 }
 
 .broadcast{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     min-height: 90px;
     width: 80%;
     margin: auto;
@@ -66,13 +74,13 @@ button{
 }
 
 .broadcast1{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 400px;
     width: 50%;
 }
 
 .broadcast1 h5{
-    font-size: 70px;
+    font-size: 60px;
 }
 
 .broadcast1 h1{
@@ -81,7 +89,7 @@ button{
 }
 
 .broadcast2{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 400px;
     width: 50%;
 }
